@@ -19,6 +19,7 @@ tailwind.config.js
 vite.config.js
 postcss.config.js
 README.md
+/index.html
 yarn.lock
 
 dist-ssr
